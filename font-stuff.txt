@@ -1,0 +1,10 @@
+<i class="fas fa-user-graduate"></i> - graduate icon
+<i class="fas fa-search"></i> - zoom icon
+<i class="fas fa-search-plus"></i> - zoom with ‘+’ icon
+<i class="fas fa-file-alt"></i> - file icon
+<i class="fas fa-edit"></i> - pencil on paper icon
+<i class="right fas fa-chevron-circle-right"></i> - right icon
+<i class="nav-icon fas fa-list-alt"></i> - list icon
+<i class="fas fa-edit"></i>- pencil icon
+<i class="fas fa-check-circle"></i>-correct symbol
+<i class="nav-icon fas fa-chart-line"></i> - chart icon
