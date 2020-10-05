@@ -8,3 +8,5 @@
 <i class="fas fa-edit"></i>- pencil icon
 <i class="fas fa-check-circle"></i>-correct symbol
 <i class="nav-icon fas fa-chart-line"></i> - chart icon
+<i class="fas fa-times-circle"></i> x cirlce
+<i class="fas fa-times"></i> x no circle
